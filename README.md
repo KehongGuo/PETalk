@@ -1,7 +1,7 @@
 # PETalk
 ### A Pipeline for Plosive-Enhanced Talking Head Generation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c6eDLz7lzaEfd4jRNdKOwggxWLWQGslC)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XKDCJs2Qa81VAiQOSVPloCuAtY_eV7F8?usp=sharing)
 [![Python Version](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KehongGuo/PETalk/blob/main/LICENSE)
 
